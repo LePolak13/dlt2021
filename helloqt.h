@@ -29,3 +29,5 @@ public slots:
 };
 
 #endif // HELLOQT_H
+
+//cc cest moi tchoupi
